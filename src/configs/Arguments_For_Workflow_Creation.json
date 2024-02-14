@@ -10,6 +10,12 @@
     "imports": {
 
     },
+    "user": {
+        "user_name": "bhanuprakash.pothugunta@kpipartners.com"
+    },
+    "cluster": {
+        "existing_cluster_id": "0104-115443-g3puolpy"
+    },
     "code_attachments": {
         "data_type_conv": ""
     }
