@@ -1,0 +1,16 @@
+{
+    "credentials": {
+        "host": "https://adb-747007169892122.2.azuredatabricks.net",
+        "token": "dapib95f3ff4d743b96fa60002a926397851-3"
+    },
+    "paths": {
+        "workspace_user": "/Users/bhanuprakash.pothugunta@kpipartners.com/samples/",
+        "dag_path": "/FileStore/bhanu/televison_airflow.py"
+    },
+    "imports": {
+
+    },
+    "code_attachments": {
+        "data_type_conv": ""
+    }
+}
